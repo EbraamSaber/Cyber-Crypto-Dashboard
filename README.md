@@ -17,4 +17,4 @@ This application is designed for educational purposes to demonstrate various enc
 ## 👥 Project Team
 *   **Supervised by:** Prof. Dr. Mohamed Abdel Hamid
 *   **Teaching Assistants:** Eng. EL-Shimaa Haroun & Eng. Sohila Abdallah.
-*   **Developed by:** Ebraam Saber, Mina Saber, Mohamed Ali, Abram Gergis, and Mohamed Mustafa
+*   **Developed by:** Ebraam Saber Sedky, Mina Saber, Mohamed Ali, Abram Gergis, and Mohamed Mustafa
